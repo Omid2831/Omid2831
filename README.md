@@ -1,8 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Omid2831.Omid2831" />
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Omid2831.Omid2831" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omid+Mehrabi!;">
 </h1>
@@ -14,7 +11,31 @@
   <a href="https://www.linkedin.com/in/omid-mehrabi-2638792a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+---
+### 📈 GitHub Stats & Activity
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=bear&hide=contribs,prs" alt="Omid's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omid2831&theme=dark&hide_border=true" alt="Omid's GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -33,16 +54,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,java,c,express,mongodb,mysql,firebase,flask" />
 </div>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=bear&hide=contribs,prs" alt="Omid's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
-</p>
 
 ---
 
@@ -50,9 +61,4 @@
 Feel free to reach out if you're interested in working together, or just want to say hi! Looking forward to collaborating on open-source projects and learning more.
 
 ---
-
-
-
-[![Omid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula)](https://github.com/Omid2831/github-readme-activity-graph) 
-  
 
