@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 ---
+
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
@@ -32,7 +34,25 @@
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Languages I Used" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <!-- Additional Graph 1: Language Usage Bar Chart -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=bar&theme=bear" alt="Detailed Language Usage" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <!-- Additional Graph 2: Commit Frequency Heatmap -->
+        <img src="https://some-url-to-commit-heatmap" alt="Commit Frequency Heatmap" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <!-- Additional Graph 3: Coding Activity Timeline -->
+        <img src="https://some-url-to-coding-activity-timeline" alt="Coding Activity Timeline" />
       </td>
     </tr>
   </table>
@@ -53,7 +73,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,java,c,express,mongodb,mysql,firebase,flask" />
 </div>
-
 
 ---
 
