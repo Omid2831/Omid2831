@@ -40,7 +40,6 @@
   </table>
 </div>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -64,3 +63,4 @@ Feel free to reach out if you're interested in working together, or just want to
 
 ---
 
+This example incorporates the **GitHub Readme Activity Graph** and other stats similar to the profile shown in the image. Feel free to customize it further to match your style and preferences. If you need any more help, just let me know!
