@@ -28,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    
-[![Omids's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/Omid2831/github-readme-activity-graph)
+     
+[![Omid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula)](https://github.com/Omid2831/github-readme-activity-graph)
  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 
 </div>
