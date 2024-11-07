@@ -23,10 +23,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=bear&hide=contribs,prs" alt="Omid's GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omid2831&theme=dark&hide_border=true" alt="Omid's GitHub Streak" />
-      </td>
-    </tr>
     <tr>
       <td colspan="2">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
