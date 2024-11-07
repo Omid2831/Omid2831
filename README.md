@@ -34,29 +34,12 @@
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Languages I Used" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <!-- Additional Graph 1: Language Usage Bar Chart -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=bar&theme=bear" alt="Detailed Language Usage" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <!-- Additional Graph 2: Commit Frequency Heatmap -->
-        <img src="https://some-url-to-commit-heatmap" alt="Commit Frequency Heatmap" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <!-- Additional Graph 3: Coding Activity Timeline -->
-        <img src="https://some-url-to-coding-activity-timeline" alt="Coding Activity Timeline" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
