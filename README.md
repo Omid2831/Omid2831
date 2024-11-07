@@ -29,11 +29,11 @@
 <br/>
 <div align="center">
     
-[bear]: https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear
+[bear]: https://github-readme-stats.omid2831.app/api?username=Omid2831&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear
 
 [![Omid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula)](https://github.com/Omid2831/github-readme-activity-graph) 
   
-  [add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
+  [add-theme]: https://github.com/omid2831/github-readme-stats/edit/master/themes/index.js
   
  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 
