@@ -33,7 +33,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Most Used Languages" />
       </td>
     </tr>
