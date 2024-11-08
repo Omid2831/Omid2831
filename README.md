@@ -49,12 +49,7 @@
 - 📚 Actively learning to master **React Native**, **Node.js**, **Express**, **MongoDB**, and more.
 - 🏆 National coding competition winner, always ready to take on new challenges.
 
----
 
-### ⚒️ Languages I Used
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,java,c,express,mongodb,mysql,firebase,flask" />
-</div>
 
 ---
 
