@@ -20,8 +20,13 @@
 <div align="center">
   <table>
     <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
+      </td>
+    </tr>
+    <tr>
       <td>
-        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Omid2831&theme=react&border_radius=10" alt="streak stats" />
+        <img width=390 src="https://github-readme-streak-stats.herokuapp.app/?user=Omid2831&theme=react&border_radius=10" alt="streak stats" />
       </td>
       <td>
         <img width=390 src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -40,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="advanced snake animation" src="https://raw.githubusercontent.com/Omid2831/Omid2831/output/github-contribution-grid-snake.svg" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.app/Omid2831/Omid2831/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -50,7 +55,7 @@
 - 💻 Junior Developer with a passion for **app development**, **full-stack development**, and **game development**.
 - 🎓 Currently enhancing my skills in **Java**, **HTML, CSS, JavaScript**, and **TypeScript**.
 - 🌍 Open to networking and collaborating on exciting projects in **web and app development**.
-- 📚 Actively learning to master **React Native**, **Node.js**, **Express**, **MongoDB**, and more.
+- 📚 Actively learning to master **React Native**, **Node.js**, and more.
 - 🏆 National coding competition winner, always ready to take on new challenges.
 
 ---
