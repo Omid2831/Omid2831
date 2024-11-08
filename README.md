@@ -26,10 +26,10 @@
     </tr>
     <tr>
       <td>
-        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=salesp07&theme=react&border_radius=10" alt="streak stats" />
+        <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=omid2831&theme=react&border_radius=10" alt="streak stats" />
       </td>
       <td>
-        <img width=390 src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+        <img width=400 src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       </td>
     </tr>
     <tr>
