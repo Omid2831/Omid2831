@@ -51,7 +51,7 @@
 
 ---
 
-### ⚒️ Languages, Frameworks & Tools
+### ⚒️ Languages I Used
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,python,java,c,express,mongodb,mysql,firebase,flask" />
 </div>
@@ -62,4 +62,3 @@
 Feel free to reach out if you're interested in working together, or just want to say hi! Looking forward to collaborating on open-source projects and learning more.
 
 ---
-
