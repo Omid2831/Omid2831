@@ -40,7 +40,7 @@
     <!-- Add Snake Game Contributions -->
     <tr>
       <td colspan="2" align="center">
-       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/omid2831/omid2831/output/github-contribution-grid-snake.svg" />
+       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
       </td>
     </tr>
   </table>
