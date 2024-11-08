@@ -21,19 +21,6 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=bear&hide=contribs,prs" alt="Omid's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omid2831&theme=dark&hide_border=true" alt="Omid's GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Omid2831&theme=react&border_radius=10" alt="streak stats" />
       </td>
       <td>
@@ -53,7 +40,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Omid2831/Omid2831/output/github-contribution-grid-snake.svg" />
+  <img alt="advanced snake animation" src="https://raw.githubusercontent.com/Omid2831/Omid2831/output/github-contribution-grid-snake.svg" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
   <br/><br/><br/>
 </div>
 
