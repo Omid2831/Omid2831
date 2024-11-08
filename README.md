@@ -34,19 +34,9 @@
     </tr>
     <tr>
       <td colspan="2">
-        <!-- Display badges for languages you've written in -->
-        <p>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      
-    
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Most Used Languages" />
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -72,3 +62,4 @@
 Feel free to reach out if you're interested in working together, or just want to say hi! Looking forward to collaborating on open-source projects and learning more.
 
 ---
+
