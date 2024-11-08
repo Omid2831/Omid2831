@@ -32,24 +32,20 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
       </td>
     </tr>
-      <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-omid2831.vercel.app/?user=omid2831&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-omid2831.vercel.app/api?username=omid2831&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-omid2831.vercel.app/api/top-langs/?username=omid2831&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&layout=compact&theme=bear" alt="Most Used Languages" />
+      </td>
+    </tr>
   </table>
 </div>
 
 ---
 
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Omid2831/Omid2831/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -58,15 +54,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-omid2831.vercel.app/?user=omid2831&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-omid2831.vercel.app/api?username=omid2831&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Omid2831&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-omid2831.vercel.app/api/top-langs/?username=omid2831&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omid2831&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
+<br/><br/>
 
+---
 
 ### 👨‍💻 About Me
 - 💻 Junior Developer with a passion for **app development**, **full-stack development**, and **game development**.
@@ -74,8 +71,6 @@
 - 🌍 Open to networking and collaborating on exciting projects in **web and app development**.
 - 📚 Actively learning to master **React Native**, **Node.js**, **Express**, **MongoDB**, and more.
 - 🏆 National coding competition winner, always ready to take on new challenges.
-
-
 
 ---
 
