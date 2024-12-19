@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td>
-        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Omid2831&show_icons=true&theme=dracula&border_radius=10" alt="streak stats" />
+        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=omid2831&show_icons=true&theme=dracula&border_radius=10" alt="streak stats" />
       </td>
       <td>
           <img width=390 src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" alt="GitHub Stats" />
