@@ -53,12 +53,12 @@
 - 💻 Junior Developer with a passion for **app development**, **full-stack development**, and **game development**.
 - 🎓 Currently enhancing my skills in **Java**, **HTML, CSS, JavaScript**.
 - 🌍 Open to networking and collaborating on exciting projects in **web and app development**.
-- 📚 Actively learning to master **React Native**, **Node.js**, and more.
+- 📚 Actively learning to master **React JS**, **Node.js**.
 - 🏆 National coding competition winner, always ready to take on new challenges.
 
 ---
 
 ### 🌐 Let's Connect
-Feel free to reach out if you're interested in working together, or just want to say hi! Looking forward to collaborating on open-source projects and learning more.
+Feel free to reach out if you're interested in working together or just want to say hi! I'm looking forward to collaborating on open-source projects and learning more.
 
 ---
