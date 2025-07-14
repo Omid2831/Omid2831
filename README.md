@@ -50,7 +50,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Junior Developer with a passion for **app development**, **full-stack development**, and **game development**.
+- 💻 Junior Developer with a passion for **app development**, **front-end development**.
 - 🎓 Currently enhancing my skills in **Java**, **HTML, CSS, JavaScript** and **PHP**.
 - 🌍 Open to networking and collaborating on exciting projects in **web and app development**.
 - 📚 Actively learning to master **React JS**, **Node.js**.
