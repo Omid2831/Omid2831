@@ -53,7 +53,7 @@
 - 💻 Junior Developer with a passion for **app development**, **front-end development**.
 - 🎓 Currently enhancing my skills in **REACT**, **THREEJS, TYPESCRIPT, JavaScript** and **LARAVEL**.
 - 🌍 Open to networking and collaborating on exciting projects in **web and app development**.
-- 📚 Actively learning to master **NEXTJS**, **Node.js**.
+- 📚 Actively learning to master **NEXTJS**.
 - 🏆 National coding competition winner, always ready to take on new challenges.
 
 ---
