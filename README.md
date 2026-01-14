@@ -21,7 +21,7 @@
   <table>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
       </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
         <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=omid2831&show_icons=true&theme=dracula&border_radius=10" alt="streak stats" />
       </td>
       <td>
-          <img width=390 src="https://github-readme-stats.vercel.app/api?username=Omid2831&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" alt="GitHub Stats" />
+          <img width=390 src="https://github-readme-stats.vercel.app/api?username=omid2831&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
