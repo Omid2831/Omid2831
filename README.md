@@ -21,43 +21,22 @@
   <table>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?username=omid2831&show_icons=true&theme=dracula&border_radius=10" alt="streak stats" />
-      </td>
-      <td>
-          <img width=390 src="https://github-readme-stats.vercel.app/api?username=omid2831&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width= align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omid2831&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-      </td>
-    </tr>
-    <!-- Add Snake Game Contributions -->
-    <tr>
-      <td colspan="2" align="center">
-       <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/omid2831/omid2831/output/github-contribution-grid-snake.svg" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omid2831&theme=dracula" alt="Omid's GitHub Activity Graph" />
       </td>
     </tr>
   </table>
 </div>
 
-
 ---
 
 ### 👨‍💻 About Me
-- 💻 Junior Developer with a passion for **app development**, **front-end development**.
-- 🎓 Currently enhancing my skills in **REACT**, **THREEJS, TYPESCRIPT, JavaScript** and **LARAVEL**.
-- 🌍 Open to networking and collaborating on exciting projects in **web and app development**.
-- 📚 Actively learning to master **NEXTJS**.
-- 🏆 National coding competition winner, always ready to take on new challenges.
+- 💻 Junior Developer with a passion for **app development** and **front-end development**
+- 🎓 Currently enhancing my skills in **React**, **Three.js**, **TypeScript**, **JavaScript**, and **Laravel**
+- 🌍 Open to networking and collaborating on exciting projects in **web and app development**
+- 📚 Actively learning to master **Next.js**
+- 🏆 National coding competition winner, always ready to take on new challenges
 
 ---
 
 ### 🌐 Let's Connect
 Feel free to reach out if you're interested in working together or just want to say hi! I'm looking forward to collaborating on open-source projects and learning more.
-
