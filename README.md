@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-💻 Junior Developer with a passion for app development and front-end development<br>🎓 Currently enhancing my skills in React, Three.js, TypeScript, JavaScript, and Laravel<br>🌍 Open to networking and collaborating on exciting projects in web and app development<br>📚 Actively learning to master Next.js<br>🏆 National coding competition winner, always ready to take on new challenges<br>
+💻 Early-medior Developer with a passion for app development and front-end development<br>🎓 Currently enhancing my skills in React, Three.js, TypeScript, JavaScript, and Laravel<br>🌍 Open to networking and collaborating on exciting projects in web and app development<br>📚 Actively learning to master Next.js<br>🏆 National coding competition winner, always ready to take on new challenges<br>
 
 
 ## 🌐 Let's Connect
