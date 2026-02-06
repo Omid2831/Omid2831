@@ -8,16 +8,11 @@
 # 💫 About Me:
 💻 Early-medior Developer with a passion for app development and front-end development<br>🎓 Currently enhancing my skills in React, Three.js, TypeScript, JavaScript, and Laravel<br>🌍 Open to networking and collaborating on exciting projects in web and app development<br>📚 Actively learning to master Next.js<br>🏆 National coding competition winner, always ready to take on new challenges<br>
 
-
-## 🌐 Let's Connect
-Feel free to reach out if you're interested in working together or just want to say hi! I'm looking forward to collaborating on open-source projects and learning more.
-</br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehraaabiii_omiddd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Omidd2831) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehrabiomid8282@gmail.com) <a href="https://www.linkedin.com/in/omid-mehrabi-2638792a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
  
-### 📈 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity
 
 <div align="center">
   <table>
@@ -40,6 +35,11 @@ Feel free to reach out if you're interested in working together or just want to 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Let's Connect
+Feel free to reach out if you're interested in working together or just want to say hi! I'm looking forward to collaborating on open-source projects and learning more.
+</br>
+![githubgif](https://github.com/user-attachments/assets/bec29e5f-205a-464e-a12d-fbbbc60db72f)
 
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/OmidMehrabi) 
