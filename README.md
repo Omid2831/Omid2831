@@ -41,8 +41,3 @@ Feel free to reach out if you're interested in working together or just want to 
 </br>
 ![githubgif](https://github.com/user-attachments/assets/bec29e5f-205a-464e-a12d-fbbbc60db72f)
 
-## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/OmidMehrabi) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
