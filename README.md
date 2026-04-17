@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-💻 Early-medior Developer with a passion for app development and front-end development<br>🎓 Currently enhancing my skills in React  <br>🌍 Open to networking and collaborating on exciting projects in web and app development<br>📚 Actively learning to master Flutter, React Native <br>🏆 National coding competition winner, always ready to take on new challenges<br>
+💻 Early-medior Developer with a passion for app development and front-end development<br>🎓 Currently enhancing my skills in React  <br>🌍 Open to networking and collaborating on exciting projects in web and app development<br>📚 Actively learning to master React Native <br>🏆 National coding competition winner, always ready to take on new challenges<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehraaabiii_omiddd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Omidd2831) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehrabiomid8282@gmail.com) <a href="https://www.linkedin.com/in/omid-mehrabi-2638792a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
